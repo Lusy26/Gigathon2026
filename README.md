@@ -1,4 +1,4 @@
-#EXPEDICIÓN ESPACIAL
+# Expedición Espacial / Gigathon_2026
 
 ## Descripción
 
